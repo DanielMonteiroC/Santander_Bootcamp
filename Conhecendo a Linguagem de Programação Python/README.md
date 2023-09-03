@@ -1,4 +1,4 @@
 <p align="center" width="100%">
-    <img width="100%" src="/Conhecendo a Linguagem de Programação Python/img/CLPP.png"> 
+    <img width="50%" src="/img/Conhecendo a Linguagem de Programacao Python.png"> 
 </p>
 
